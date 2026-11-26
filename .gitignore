@@ -1,0 +1,6 @@
+# Estado y plugins de Terraform: el estado puede contener datos sensibles.
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
